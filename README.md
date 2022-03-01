@@ -1,1 +1,1 @@
-Creating a git directory
+git directory
